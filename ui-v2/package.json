@@ -41,7 +41,7 @@
 		"@tanstack/react-table": "^8.20.5",
 		"@tanstack/zod-adapter": "^1.95.1",
 		"@uiw/react-codemirror": "^4.23.6",
-		"class-variance-authority": "^0.7.0",
+		"class-variance-authority": "^0.7.1",
 		"clsx": "^2.1.1",
 		"cmdk": "^1.0.4",
 		"cronstrue": "^2.52.0",
